@@ -33,8 +33,8 @@ The application capture various class fields such as:
 
 ######  The Java Journey Series includes the following JAVA applications on GIT:
 * <a href="https://github.com/marvtdawson/java-emailAdminApp">Java Email Admin Application</a>
-* <a href="https://github.com/marvtdawson/java-student-database-app">Java New Bank Account</a>
-* Java Student Database Application
+* Java New Bank Account
+* <a href="https://github.com/marvtdawson/java-student-database-app">Java Student Database Application</a>
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
 * <a href="https://github.com/marvtdawson/timbu-java-springboot-GuessTheNumberGame">Spring 5 Guess The Number Game </a>
